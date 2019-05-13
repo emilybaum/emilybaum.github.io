@@ -1,3 +1,27 @@
+/* 
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Libre Barcode 128 Text', cursive;
+font-family: 'Montaga', serif;
+*/
+
+h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 70px;
+}
+
 p {
-    font-family: 'Merriweather', serif;
+    font-family: 'Montaga', serif;
+    font-size: 30px;
+}
+
+.main {
+    width: 500px;
+	height: 300px;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  	margin: auto;
+    text-align: center;
 }
