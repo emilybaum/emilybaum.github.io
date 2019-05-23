@@ -1,17 +1,25 @@
 /* 
 font-family: 'Fredericka the Great', cursive;
-font-family: 'Libre Barcode 128 Text', cursive;
-font-family: 'Montaga', serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-family: 'Open Sans', sans-serif;
 */
 
 h1 {
     font-family: 'Fredericka the Great', cursive;
+	text-emphasis: none;
     font-size: 70px;
+	margin-bottom: 20px;
 }
 
 p {
-    font-family: 'Montaga', serif;
-    font-size: 30px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 40px;
+	font-weight: lighter;
+	text-emphasis: none;
+}
+
+strong {
+	font-weight: 500;
 }
 
 .main {
