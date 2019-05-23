@@ -33,3 +33,9 @@ strong {
   	margin: auto;
     text-align: center;
 }
+
+
+
+html {
+	background-image: url("images/brickwall_@2X.png");
+}
