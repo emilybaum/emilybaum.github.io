@@ -1,21 +1,20 @@
 /* 
-font-family: 'Fredericka the Great', cursive;
-font-family: 'Yanone Kaffeesatz', sans-serif;
-font-family: 'Open Sans', sans-serif;
+font-family: 'Rock Salt', cursive;
+font-family: 'Lato', sans-serif;
 */
 
 h1 {
-    font-family: 'Fredericka the Great', cursive;
-	text-emphasis: none;
-    font-size: 70px;
-	margin-bottom: 20px;
+    font-family: 'Rock Salt', cursive;
+	font-size: 70px;
+	margin-bottom: 15px;
 }
 
 p {
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
 	font-weight: lighter;
-	text-emphasis: none;
+	width: 40%;
+	margin: auto;
 }
 
 strong {
@@ -23,7 +22,7 @@ strong {
 }
 
 .main {
-    width: 500px;
+    width: 50%;
 	height: 300px;
 	position: absolute;
 	top:0;
@@ -31,11 +30,11 @@ strong {
 	left: 0;
 	right: 0;
   	margin: auto;
-    text-align: center;
+    text-align: center;	
 }
 
 
 
 html {
-	background-image: url("images/brickwall_@2X.png");
+	background-image: url("images/brickwall.png");
 }
